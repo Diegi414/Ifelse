@@ -1,0 +1,12 @@
+int main()
+{
+  if (digital(1) ==1)
+{
+    printf("Touched!\n");
+}
+else
+{
+    printf("Not touched!\n);
+}
+return 0;
+}
